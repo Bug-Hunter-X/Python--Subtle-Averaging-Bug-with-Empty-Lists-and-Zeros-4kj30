@@ -1,0 +1,1 @@
+This repository demonstrates a common, yet subtle, bug in Python code that involves calculating the average of a list of numbers. The bug manifests in the way the code handles empty lists and lists containing zeros.  The `bug.py` file shows the buggy implementation. The `bugSolution.py` file provides a corrected version.
